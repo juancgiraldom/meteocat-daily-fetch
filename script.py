@@ -4,6 +4,7 @@ with id="resumSM" into a CSV named with today's date (YYYY-MM-DD.csv).
 """
 
 import csv
+import os
 import sys
 from datetime import date
 
@@ -46,8 +47,11 @@ def main() -> None:
         )
         sys.exit(1)
 
+    output_dir = "outputs"
+    os.makedirs(output_dir, exist_ok=True)
+
     today = date.today().isoformat()  # e.g. 2026-07-08
-    filename = f"{today}.csv"
+    filename = os.path.join(output_dir, f"{today}.csv")
 
     with open(filename, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)

@@ -30,6 +30,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add "*.csv"
+          git add outputs/*.csv
           git diff --staged --quiet || git commit -m "Add resumSM data for $(date -u +'%Y-%m-%d')"
           git push
