@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Girona,27.9,
+0,Resum dades: temperatura màxima avui,Aldover,27.4,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,27.4,
+0,Resum dades: temperatura màxima avui,Os de Balaguer - el Monestir d'Avellanes,27.3,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,27.3,
+0,Resum dades: temperatura màxima avui,Anglesola - Tornabous,27.3,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,27.2,
+0,Resum dades: temperatura màxima avui,Espolla,27.2,
+0,Resum dades: temperatura màxima avui,Miami Platja,27.2,
+0,Resum dades: temperatura màxima avui,Cabanes,27.2,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),11.7,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,11.8,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,12.2,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.7,
+1,Resum dades: temperatura mínima avui,Puigcerdà,12.8,
+1,Resum dades: temperatura mínima avui,Tírvia,13.7,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,15.5,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,15.5,
+1,Resum dades: temperatura mínima avui,Alfarràs,15.6,
+1,Resum dades: temperatura mínima avui,PN dels Ports,15.7,
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NE,45.0
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),NE,43.6
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),SE,41.8
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,41.0
+2,Resum dades: velocitat i direcció del vent avui,Cantonigròs,E,38.2
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - ZAL Prat,NE,35.3
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,32.8
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - el Raval,NE,32.0
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Zona Universitària,NE,32.0
+2,Resum dades: velocitat i direcció del vent avui,Santuari de Queralt,N,31.3
+3,Resum dades: precipitació avui,Vallirana,0.4,
+3,Resum dades: precipitació avui,Guixers - Valls,0.3,
+3,Resum dades: precipitació avui,Guardiola de Berguedà,0.2,
+3,Resum dades: precipitació avui,Solsona,0.2,
+3,Resum dades: precipitació avui,Cardona,0.1,
+3,Resum dades: precipitació avui,Castellar de n'Hug - el Clot del Moro,0.1,
+3,Resum dades: precipitació avui,Alinyà,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
