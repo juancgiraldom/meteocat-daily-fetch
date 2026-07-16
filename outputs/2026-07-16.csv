@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Caldes de Montbui,31.6,
+0,Resum dades: temperatura màxima avui,Castellbisbal,31.4,
+0,Resum dades: temperatura màxima avui,Margalef,31.1,
+0,Resum dades: temperatura màxima avui,la Granadella,31.1,
+0,Resum dades: temperatura màxima avui,Canyelles,31.0,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,31.0,
+0,Resum dades: temperatura màxima avui,Sant Pere de Ribes - PN del Garraf,30.9,
+0,Resum dades: temperatura màxima avui,Parets del Vallès,30.7,
+0,Resum dades: temperatura màxima avui,Baldomar,30.6,
+0,Resum dades: temperatura màxima avui,Vallirana,30.5,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,13.1,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,14.6,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),15.4,
+1,Resum dades: temperatura mínima avui,Tírvia,15.7,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,15.9,
+1,Resum dades: temperatura mínima avui,Puigcerdà,16.0,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,16.5,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,17.0,
+1,Resum dades: temperatura mínima avui,la Seu d'Urgell - Bellestar,17.4,
+1,Resum dades: temperatura mínima avui,Sort,17.4,
+2,Resum dades: velocitat i direcció del vent avui,Castell d'Aro,NE,53.3
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,S,53.3
+2,Resum dades: velocitat i direcció del vent avui,Cervera,E,52.2
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,52.2
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,50.0
+2,Resum dades: velocitat i direcció del vent avui,Pujalt,E,46.8
+2,Resum dades: velocitat i direcció del vent avui,Margalef,S,44.6
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,43.2
+2,Resum dades: velocitat i direcció del vent avui,Falset,E,42.1
+2,Resum dades: velocitat i direcció del vent avui,l'Espluga de Francolí,NE,41.4
+3,Resum dades: precipitació avui,Tírvia,10.8,
+3,Resum dades: precipitació avui,Sort,3.4,
+3,Resum dades: precipitació avui,Organyà,2.9,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,1.6,
+3,Resum dades: precipitació avui,Vielha - Elipòrt,0.8,
+3,Resum dades: precipitació avui,Bonabé (1.691 m),0.8,
+3,Resum dades: precipitació avui,Vilanova de Meià,0.7,
+3,Resum dades: precipitació avui,Santuari de Queralt,0.7,
+3,Resum dades: precipitació avui,Tremp,0.6,
+3,Resum dades: precipitació avui,el Pont de Suert,0.4,
