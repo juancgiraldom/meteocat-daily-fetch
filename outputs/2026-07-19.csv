@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Espolla,32.2,
+0,Resum dades: temperatura màxima avui,Cabanes,32.1,
+0,Resum dades: temperatura màxima avui,Roses,31.7,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,31.6,
+0,Resum dades: temperatura màxima avui,Torroella de Fluvià,31.5,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,31.1,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,30.9,
+0,Resum dades: temperatura màxima avui,Cunit,30.8,
+0,Resum dades: temperatura màxima avui,la Bisbal d'Empordà,30.7,
+0,Resum dades: temperatura màxima avui,Navata,30.7,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.1,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,12.9,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),13.2,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,13.8,
+1,Resum dades: temperatura mínima avui,Puigcerdà,14.7,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,15.1,
+1,Resum dades: temperatura mínima avui,Sort,15.2,
+1,Resum dades: temperatura mínima avui,Tírvia,15.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,15.8,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,16.1,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,NO,56.5
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),SE,30.6
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,28.4
+2,Resum dades: velocitat i direcció del vent avui,l'Espluga de Francolí,NE,27.7
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NE,27.4
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,27.0
+2,Resum dades: velocitat i direcció del vent avui,la Panadella,E,27.0
+2,Resum dades: velocitat i direcció del vent avui,Pujalt,SE,27.0
+2,Resum dades: velocitat i direcció del vent avui,la Pobla de Segur,N,26.6
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,25.9
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.0,
+3,Resum dades: precipitació avui,Molló - Fabert,0.0,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.0,
+3,Resum dades: precipitació avui,Organyà,0.0,
