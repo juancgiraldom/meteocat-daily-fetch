@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cabanes,30.3,
+0,Resum dades: temperatura màxima avui,Espolla,30.0,
+0,Resum dades: temperatura màxima avui,Cunit,29.8,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,29.8,
+0,Resum dades: temperatura màxima avui,Lladurs,29.5,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,29.4,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,29.3,
+0,Resum dades: temperatura màxima avui,Castell d'Aro,29.2,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,28.8,
+0,Resum dades: temperatura màxima avui,el Perelló,28.8,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,11.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,12.8,
+1,Resum dades: temperatura mínima avui,Prades,14.1,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,14.2,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,14.3,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,14.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,14.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),14.7,
+1,Resum dades: temperatura mínima avui,la Vall d'en Bas,15.1,
+1,Resum dades: temperatura mínima avui,Torroella de Fluvià,15.1,
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,35.3
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,33.5
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,29.9
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,E,28.4
+2,Resum dades: velocitat i direcció del vent avui,Massoteres,E,28.4
+2,Resum dades: velocitat i direcció del vent avui,Cantonigròs,E,28.1
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,25.6
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,N,23.4
+2,Resum dades: velocitat i direcció del vent avui,Tivissa,E,23.0
+2,Resum dades: velocitat i direcció del vent avui,la Panadella,E,22.3
+3,Resum dades: precipitació avui,Port de Barcelona - ZAL Prat,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.0,
+3,Resum dades: precipitació avui,Molló - Fabert,0.0,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.0,
