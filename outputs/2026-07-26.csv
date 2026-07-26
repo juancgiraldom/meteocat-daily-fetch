@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,26.8,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,26.0,
+0,Resum dades: temperatura màxima avui,Roses,25.5,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,25.5,
+0,Resum dades: temperatura màxima avui,els Alfacs,25.2,
+0,Resum dades: temperatura màxima avui,Aldover,25.1,
+0,Resum dades: temperatura màxima avui,Espolla,25.1,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,25.0,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,25.0,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,25.0,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,7.9,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),9.0,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,9.7,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,9.7,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),10.5,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),10.8,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,11.0,
+1,Resum dades: temperatura mínima avui,Puigcerdà,11.1,
+1,Resum dades: temperatura mínima avui,Gisclareny,11.6,
+1,Resum dades: temperatura mínima avui,Os de Balaguer - el Monestir d'Avellanes,11.6,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,90.7
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,72.4
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,67.0
+2,Resum dades: velocitat i direcció del vent avui,Mas de Barberans,NO,65.9
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,63.7
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,51.8
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,45.4
+2,Resum dades: velocitat i direcció del vent avui,Amposta,NO,43.2
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NO,42.8
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NO,42.5
+3,Resum dades: precipitació avui,Roses,4.7,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,4.2,
+3,Resum dades: precipitació avui,Espolla,3.9,
+3,Resum dades: precipitació avui,Cabanes,2.9,
+3,Resum dades: precipitació avui,Portbou - coll dels Belitres,0.6,
+3,Resum dades: precipitació avui,Pantà de Darnius - Boadella,0.5,
+3,Resum dades: precipitació avui,Castelló d'Empúries,0.5,
+3,Resum dades: precipitació avui,Sant Joan de les Abadesses,0.2,
+3,Resum dades: precipitació avui,Vielha - Elipòrt,0.2,
+3,Resum dades: precipitació avui,Castellbisbal,0.1,
