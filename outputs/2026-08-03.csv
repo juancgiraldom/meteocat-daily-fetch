@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Vinebre,32.1,
+0,Resum dades: temperatura màxima avui,Aldover,31.9,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,31.8,
+0,Resum dades: temperatura màxima avui,Canyelles,31.8,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,31.5,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,31.3,
+0,Resum dades: temperatura màxima avui,el Vendrell,31.0,
+0,Resum dades: temperatura màxima avui,Benissanet,31.0,
+0,Resum dades: temperatura màxima avui,Ascó,30.9,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,30.9,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.9,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,14.5,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),14.7,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,15.7,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,16.3,
+1,Resum dades: temperatura mínima avui,Puigcerdà,16.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,16.4,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,16.4,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,16.6,
+1,Resum dades: temperatura mínima avui,Tírvia,17.3,
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),E,45.0
+2,Resum dades: velocitat i direcció del vent avui,Sant Romà d'Abella,SE,41.0
+2,Resum dades: velocitat i direcció del vent avui,Margalef,E,36.0
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,SE,34.6
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,33.8
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NE,31.7
+2,Resum dades: velocitat i direcció del vent avui,Falset,E,31.3
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),S,31.3
+2,Resum dades: velocitat i direcció del vent avui,Torredembarra,E,29.2
+2,Resum dades: velocitat i direcció del vent avui,Vinebre,S,28.8
+3,Resum dades: precipitació avui,Castelló d'Empúries,0.2,
+3,Resum dades: precipitació avui,Sant Pere Pescador,0.1,
+3,Resum dades: precipitació avui,Torroella de Montgrí,0.1,
+3,Resum dades: precipitació avui,Dosrius - PN Montnegre Corredor,0.1,
+3,Resum dades: precipitació avui,Pinós,0.1,
+3,Resum dades: precipitació avui,PN dels Ports,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
