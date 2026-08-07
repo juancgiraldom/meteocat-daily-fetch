@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,29.0,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,28.5,
+0,Resum dades: temperatura màxima avui,Illa de Buda,28.3,
+0,Resum dades: temperatura màxima avui,els Alfacs,28.2,
+0,Resum dades: temperatura màxima avui,Miami Platja,28.2,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,28.0,
+0,Resum dades: temperatura màxima avui,l'Aldea,27.8,
+0,Resum dades: temperatura màxima avui,Torredembarra,27.5,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,27.3,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,27.3,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,10.9,
+1,Resum dades: temperatura mínima avui,Puigcerdà,11.3,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),11.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,12.8,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,12.8,
+1,Resum dades: temperatura mínima avui,Tírvia,13.0,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,13.2,
+1,Resum dades: temperatura mínima avui,Prades,13.3,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,14.2,
+1,Resum dades: temperatura mínima avui,la Vall d'en Bas,14.6,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,71.3
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,49.7
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,29.2
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,27.4
+2,Resum dades: velocitat i direcció del vent avui,el Prat de Llobregat,NO,23.4
+2,Resum dades: velocitat i direcció del vent avui,Mataró,NO,22.0
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,N,21.6
+2,Resum dades: velocitat i direcció del vent avui,Mas de Barberans,S,20.5
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,19.8
+2,Resum dades: velocitat i direcció del vent avui,la Pobla de Segur,NO,19.4
+3,Resum dades: precipitació avui,Sant Joan de les Abadesses,0.1,
+3,Resum dades: precipitació avui,Cassà de la Selva,0.1,
+3,Resum dades: precipitació avui,Rellinars,0.1,
+3,Resum dades: precipitació avui,Guardiola de Berguedà,0.1,
+3,Resum dades: precipitació avui,Sort,0.1,
+3,Resum dades: precipitació avui,Puigcerdà,0.1,
+3,Resum dades: precipitació avui,Tírvia,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
