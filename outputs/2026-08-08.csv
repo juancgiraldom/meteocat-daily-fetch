@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,29.5,
+0,Resum dades: temperatura màxima avui,Roses,29.0,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,28.4,
+0,Resum dades: temperatura màxima avui,Illa de Buda,28.2,
+0,Resum dades: temperatura màxima avui,els Alfacs,28.0,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,27.7,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,27.6,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,27.5,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,27.5,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,27.4,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.3,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,13.2,
+1,Resum dades: temperatura mínima avui,Puigcerdà,13.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,13.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),13.4,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,13.5,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,14.3,
+1,Resum dades: temperatura mínima avui,Prades,15.1,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,15.3,
+1,Resum dades: temperatura mínima avui,Tírvia,15.3,
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,49.0
+2,Resum dades: velocitat i direcció del vent avui,Santuari de Queralt,NO,35.3
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,32.4
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,32.4
+2,Resum dades: velocitat i direcció del vent avui,la Panadella,S,29.9
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,E,27.7
+2,Resum dades: velocitat i direcció del vent avui,Massoteres,E,27.4
+2,Resum dades: velocitat i direcció del vent avui,Mataró,NO,26.6
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,25.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Siurana,E,24.5
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.1,
+3,Resum dades: precipitació avui,Das - Aeròdrom,0.1,
+3,Resum dades: precipitació avui,Sant Joan de les Abadesses,0.1,
+3,Resum dades: precipitació avui,Castellar de n'Hug - el Clot del Moro,0.1,
+3,Resum dades: precipitació avui,Guardiola de Berguedà,0.1,
+3,Resum dades: precipitació avui,Puigcerdà,0.1,
+3,Resum dades: precipitació avui,Tírvia,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
