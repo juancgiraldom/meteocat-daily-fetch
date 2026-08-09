@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Margalef,29.9,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,29.8,
+0,Resum dades: temperatura màxima avui,la Granadella,28.9,
+0,Resum dades: temperatura màxima avui,els Alfacs,28.8,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,28.7,
+0,Resum dades: temperatura màxima avui,Horta de Sant Joan,28.5,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,28.5,
+0,Resum dades: temperatura màxima avui,Tivissa,28.5,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,28.3,
+0,Resum dades: temperatura màxima avui,Miami Platja,28.3,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),10.5,
+1,Resum dades: temperatura mínima avui,Puigcerdà,12.0,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.8,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,13.8,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,13.8,
+1,Resum dades: temperatura mínima avui,la Seu d'Urgell - Bellestar,14.3,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,14.5,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),14.6,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,14.7,
+1,Resum dades: temperatura mínima avui,Tírvia,14.7,
+2,Resum dades: velocitat i direcció del vent avui,Margalef,O,65.5
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,54.0
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),O,53.3
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,48.6
+2,Resum dades: velocitat i direcció del vent avui,Vinebre,SE,47.2
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,SO,44.6
+2,Resum dades: velocitat i direcció del vent avui,Falset,O,42.8
+2,Resum dades: velocitat i direcció del vent avui,Cervera,NE,42.1
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,41.8
+2,Resum dades: velocitat i direcció del vent avui,Benissanet,SO,41.0
+3,Resum dades: precipitació avui,Montsec d'Ares (1.571 m),4.0,
+3,Resum dades: precipitació avui,Albesa,2.5,
+3,Resum dades: precipitació avui,Vielha - Elipòrt,1.9,
+3,Resum dades: precipitació avui,el Poal,1.6,
+3,Resum dades: precipitació avui,Raimat,1.6,
+3,Resum dades: precipitació avui,Vilanova de Segrià,1.5,
+3,Resum dades: precipitació avui,Alguaire,1.5,
+3,Resum dades: precipitació avui,Tírvia,1.5,
+3,Resum dades: precipitació avui,Algerri,1.4,
+3,Resum dades: precipitació avui,Tremp,1.4,
