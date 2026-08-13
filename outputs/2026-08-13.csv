@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,29.4,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,28.9,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,28.4,
+0,Resum dades: temperatura màxima avui,Barcelona - Observatori Fabra,28.3,
+0,Resum dades: temperatura màxima avui,Font-rubí,28.2,
+0,Resum dades: temperatura màxima avui,Cabrils,28.2,
+0,Resum dades: temperatura màxima avui,Vallirana,28.0,
+0,Resum dades: temperatura màxima avui,la Panadella,27.8,
+0,Resum dades: temperatura màxima avui,Mataró,27.8,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,27.6,
+1,Resum dades: temperatura mínima avui,Prades,12.1,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),14.1,
+1,Resum dades: temperatura mínima avui,Cervera,14.2,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,14.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,14.7,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,15.0,
+1,Resum dades: temperatura mínima avui,Tírvia,15.1,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,15.2,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,15.4,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,15.6,
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,32.0
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,E,23.0
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),SE,22.7
+2,Resum dades: velocitat i direcció del vent avui,la Pobla de Segur,NO,22.3
+2,Resum dades: velocitat i direcció del vent avui,Mataró,NO,22.0
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,21.2
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),N,20.2
+2,Resum dades: velocitat i direcció del vent avui,el Prat de Llobregat,NO,20.2
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NO,19.8
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Siurana,NE,18.7
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.0,
+3,Resum dades: precipitació avui,Molló - Fabert,0.0,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.0,
+3,Resum dades: precipitació avui,Organyà,0.0,
