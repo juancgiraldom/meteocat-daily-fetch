@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,30.1,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,30.0,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,29.0,
+0,Resum dades: temperatura màxima avui,els Alfacs,28.6,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,28.5,
+0,Resum dades: temperatura màxima avui,Barcelona - Observatori Fabra,28.4,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,28.3,
+0,Resum dades: temperatura màxima avui,Mataró,28.3,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,28.1,
+0,Resum dades: temperatura màxima avui,Viladecans - les Filipines,28.1,
+1,Resum dades: temperatura mínima avui,Prades,11.3,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,11.7,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,11.8,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.0,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,12.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),13.2,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,13.4,
+1,Resum dades: temperatura mínima avui,Puigcerdà,13.5,
+1,Resum dades: temperatura mínima avui,Tírvia,13.7,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,13.8,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,50.8
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),NE,36.4
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,34.6
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,33.8
+2,Resum dades: velocitat i direcció del vent avui,Cantonigròs,E,32.0
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),E,27.0
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,26.3
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,SO,25.6
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,SO,23.0
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,22.3
+3,Resum dades: precipitació avui,Castellar de n'Hug - el Clot del Moro,0.1,
+3,Resum dades: precipitació avui,els Alfacs,0.1,
+3,Resum dades: precipitació avui,Lladurs,0.1,
+3,Resum dades: precipitació avui,Alinyà,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
