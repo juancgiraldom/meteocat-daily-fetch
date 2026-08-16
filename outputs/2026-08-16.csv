@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,28.4,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,28.0,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,27.6,
+0,Resum dades: temperatura màxima avui,Cabrils,27.1,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,26.9,
+0,Resum dades: temperatura màxima avui,Vinebre,26.8,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,26.7,
+0,Resum dades: temperatura màxima avui,Cunit,26.5,
+0,Resum dades: temperatura màxima avui,Ascó,26.4,
+0,Resum dades: temperatura màxima avui,Mataró,26.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),10.0,
+1,Resum dades: temperatura mínima avui,Puigcerdà,11.0,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,11.9,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.0,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,12.2,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,12.4,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,12.4,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,12.5,
+1,Resum dades: temperatura mínima avui,Tírvia,12.5,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,12.6,
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,46.1
+2,Resum dades: velocitat i direcció del vent avui,Mataró,O,29.9
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,O,26.6
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NO,26.3
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,26.3
+2,Resum dades: velocitat i direcció del vent avui,el Prat de Llobregat,NO,25.2
+2,Resum dades: velocitat i direcció del vent avui,els Hostalets de Pierola,SO,24.8
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - ZAL Prat,NO,24.8
+2,Resum dades: velocitat i direcció del vent avui,Terrassa,SO,24.5
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,SE,23.0
+3,Resum dades: precipitació avui,la Panadella,0.4,
+3,Resum dades: precipitació avui,Cardona,0.2,
+3,Resum dades: precipitació avui,Torredembarra,0.1,
+3,Resum dades: precipitació avui,Castellar de n'Hug - el Clot del Moro,0.1,
+3,Resum dades: precipitació avui,Ascó,0.1,
+3,Resum dades: precipitació avui,Torroja del Priorat,0.1,
+3,Resum dades: precipitació avui,Guardiola de Berguedà,0.1,
+3,Resum dades: precipitació avui,Cunit,0.1,
+3,Resum dades: precipitació avui,Canyelles,0.1,
+3,Resum dades: precipitació avui,Puigcerdà,0.1,
