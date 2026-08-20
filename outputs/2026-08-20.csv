@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,29.5,
+0,Resum dades: temperatura màxima avui,els Alfacs,29.4,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,29.4,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,29.1,
+0,Resum dades: temperatura màxima avui,Roses,29.0,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,28.7,
+0,Resum dades: temperatura màxima avui,Viladecans - les Filipines,28.7,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,28.5,
+0,Resum dades: temperatura màxima avui,Cabanes,28.5,
+0,Resum dades: temperatura màxima avui,l'Ametlla de Mar,28.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),11.1,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,13.8,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,14.2,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,14.3,
+1,Resum dades: temperatura mínima avui,Tírvia,14.6,
+1,Resum dades: temperatura mínima avui,Prades,15.0,
+1,Resum dades: temperatura mínima avui,Puigcerdà,15.0,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,15.2,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),15.5,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,16.3,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,NO,80.6
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,48.2
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,E,48.2
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),SO,43.2
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,41.8
+2,Resum dades: velocitat i direcció del vent avui,Navata,N,35.6
+2,Resum dades: velocitat i direcció del vent avui,Cantonigròs,NE,34.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,33.5
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NE,32.0
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - el Raval,NE,29.9
+3,Resum dades: precipitació avui,Anglès,2.9,
+3,Resum dades: precipitació avui,Viladrau,0.3,
+3,Resum dades: precipitació avui,Castelló d'Empúries,0.2,
+3,Resum dades: precipitació avui,Santa Coloma de Farners,0.2,
+3,Resum dades: precipitació avui,el Pont de Suert,0.1,
+3,Resum dades: precipitació avui,Pantà de Sau,0.1,
+3,Resum dades: precipitació avui,Girona,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
