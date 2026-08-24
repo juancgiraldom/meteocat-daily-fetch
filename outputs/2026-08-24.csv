@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,els Alfacs,27.3,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,26.8,
+0,Resum dades: temperatura màxima avui,Vinebre,26.7,
+0,Resum dades: temperatura màxima avui,Benissanet,26.7,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,26.7,
+0,Resum dades: temperatura màxima avui,Torredembarra,26.5,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,26.5,
+0,Resum dades: temperatura màxima avui,Miami Platja,26.5,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,25.9,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,25.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),12.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,12.8,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,13.2,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,13.6,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),13.6,
+1,Resum dades: temperatura mínima avui,Viladrau,14.0,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,14.3,
+1,Resum dades: temperatura mínima avui,Gisclareny,14.3,
+1,Resum dades: temperatura mínima avui,Puigcerdà,14.3,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,14.4,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,SO,46.8
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,42.1
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,S,41.8
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,41.0
+2,Resum dades: velocitat i direcció del vent avui,Horta de Sant Joan,SE,38.5
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,SE,37.8
+2,Resum dades: velocitat i direcció del vent avui,Vinebre,S,34.2
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,33.8
+2,Resum dades: velocitat i direcció del vent avui,Margalef,N,32.0
+2,Resum dades: velocitat i direcció del vent avui,l'Espluga de Francolí,E,30.6
+3,Resum dades: precipitació avui,Vielha - Elipòrt,1.3,
+3,Resum dades: precipitació avui,el Perelló,0.3,
+3,Resum dades: precipitació avui,l'Ametlla de Mar,0.1,
+3,Resum dades: precipitació avui,Viladrau,0.1,
+3,Resum dades: precipitació avui,la Panadella,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
