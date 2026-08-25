@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Miami Platja,27.3,
+0,Resum dades: temperatura màxima avui,Mas de Barberans,26.4,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,26.3,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,26.2,
+0,Resum dades: temperatura màxima avui,Riudecanyes,25.9,
+0,Resum dades: temperatura màxima avui,Mataró,25.9,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,25.6,
+0,Resum dades: temperatura màxima avui,l'Ametlla de Mar,25.5,
+0,Resum dades: temperatura màxima avui,el Perelló,25.0,
+0,Resum dades: temperatura màxima avui,Ascó,24.9,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),8.3,
+1,Resum dades: temperatura mínima avui,Puigcerdà,9.5,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,10.9,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,11.0,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,11.5,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,11.6,
+1,Resum dades: temperatura mínima avui,Prades,11.9,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,12.2,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,12.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,12.3,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,49.7
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,NO,47.5
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,45.4
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,44.6
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,41.8
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,33.1
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,33.1
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,32.4
+2,Resum dades: velocitat i direcció del vent avui,Santuari de Queralt,NO,29.5
+2,Resum dades: velocitat i direcció del vent avui,Viladrau,O,27.0
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.2,
+3,Resum dades: precipitació avui,Das - Aeròdrom,0.2,
+3,Resum dades: precipitació avui,la Quar,0.1,
+3,Resum dades: precipitació avui,Castellar de n'Hug - el Clot del Moro,0.1,
+3,Resum dades: precipitació avui,Guixers - Valls,0.1,
+3,Resum dades: precipitació avui,Vinyols i els Arcs - Cambrils,0.1,
+3,Resum dades: precipitació avui,la Tallada d'Empordà,0.1,
+3,Resum dades: precipitació avui,Cassà de la Selva,0.1,
+3,Resum dades: precipitació avui,la Vall d'en Bas,0.1,
+3,Resum dades: precipitació avui,el Masroig,0.1,
