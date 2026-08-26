@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,26.9,
+0,Resum dades: temperatura màxima avui,Portbou - coll dels Belitres,26.3,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,26.3,
+0,Resum dades: temperatura màxima avui,Horta de Sant Joan,26.2,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,26.2,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,26.1,
+0,Resum dades: temperatura màxima avui,Illa de Buda,25.8,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,25.7,
+0,Resum dades: temperatura màxima avui,Vinebre,25.6,
+0,Resum dades: temperatura màxima avui,Margalef,25.4,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,8.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,10.4,
+1,Resum dades: temperatura mínima avui,Puigcerdà,10.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),10.6,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,11.0,
+1,Resum dades: temperatura mínima avui,Tírvia,11.3,
+1,Resum dades: temperatura mínima avui,Sort,12.4,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,12.6,
+1,Resum dades: temperatura mínima avui,la Seu d'Urgell - Bellestar,12.7,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,12.9,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,54.4
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,S,46.8
+2,Resum dades: velocitat i direcció del vent avui,Falset,E,45.4
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,41.0
+2,Resum dades: velocitat i direcció del vent avui,Horta de Sant Joan,SE,39.2
+2,Resum dades: velocitat i direcció del vent avui,Margalef,NE,38.2
+2,Resum dades: velocitat i direcció del vent avui,Tivissa,E,37.4
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,N,34.2
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,34.2
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NE,33.1
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.0,
+3,Resum dades: precipitació avui,Molló - Fabert,0.0,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.0,
+3,Resum dades: precipitació avui,Organyà,0.0,
