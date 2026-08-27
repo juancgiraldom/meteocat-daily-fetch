@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Espolla,37.6,
+0,Resum dades: temperatura màxima avui,Castellbisbal,37.3,
+0,Resum dades: temperatura màxima avui,Cabanes,37.3,
+0,Resum dades: temperatura màxima avui,Cardona,36.7,
+0,Resum dades: temperatura màxima avui,Pantà de Darnius - Boadella,36.5,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,36.3,
+0,Resum dades: temperatura màxima avui,Seròs,36.3,
+0,Resum dades: temperatura màxima avui,Artés,36.2,
+0,Resum dades: temperatura màxima avui,Vallirana,36.1,
+0,Resum dades: temperatura màxima avui,Vallfogona de Balaguer,36.1,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,10.7,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,12.7,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,12.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),12.9,
+1,Resum dades: temperatura mínima avui,Puigcerdà,13.2,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,13.5,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,13.8,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,14.2,
+1,Resum dades: temperatura mínima avui,Sort,14.7,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,15.0,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,72.4
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,S,69.1
+2,Resum dades: velocitat i direcció del vent avui,Molló - Fabert,SO,60.1
+2,Resum dades: velocitat i direcció del vent avui,Navata,S,54.7
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,S,52.6
+2,Resum dades: velocitat i direcció del vent avui,Banyoles,S,50.8
+2,Resum dades: velocitat i direcció del vent avui,Sant Pere Pescador,S,50.8
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,50.4
+2,Resum dades: velocitat i direcció del vent avui,Horta de Sant Joan,SE,49.7
+2,Resum dades: velocitat i direcció del vent avui,Massoteres,SO,49.7
+3,Resum dades: precipitació avui,Cunit,1.2,
+3,Resum dades: precipitació avui,Vilanova i la Geltrú,0.2,
+3,Resum dades: precipitació avui,la Bisbal del Penedès,0.1,
+3,Resum dades: precipitació avui,Sant Sadurní d'Anoia,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
