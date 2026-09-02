@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cabanes,32.5,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,32.3,
+0,Resum dades: temperatura màxima avui,Navata,31.9,
+0,Resum dades: temperatura màxima avui,Espolla,31.7,
+0,Resum dades: temperatura màxima avui,Vallirana,31.6,
+0,Resum dades: temperatura màxima avui,Torroella de Fluvià,31.3,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,31.1,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,31.0,
+0,Resum dades: temperatura màxima avui,Pantà de Darnius - Boadella,30.9,
+0,Resum dades: temperatura màxima avui,Parets del Vallès,30.9,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,9.4,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,11.1,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,11.3,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,11.8,
+1,Resum dades: temperatura mínima avui,Prades,11.9,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,12.3,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,12.3,
+1,Resum dades: temperatura mínima avui,Puigcerdà,12.3,
+1,Resum dades: temperatura mínima avui,Tírvia,13.0,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,13.1,
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,34.2
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,33.1
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,N,32.0
+2,Resum dades: velocitat i direcció del vent avui,Roses,N,30.2
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,28.4
+2,Resum dades: velocitat i direcció del vent avui,Navata,NE,25.2
+2,Resum dades: velocitat i direcció del vent avui,el Prat de Llobregat,NO,24.8
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NE,23.4
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,22.7
+2,Resum dades: velocitat i direcció del vent avui,Vilafranca del Penedès - la Granada,N,21.6
+3,Resum dades: precipitació avui,Santa Coloma de Queralt,0.1,
+3,Resum dades: precipitació avui,la Panadella,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.0,
+3,Resum dades: precipitació avui,Molló - Fabert,0.0,
