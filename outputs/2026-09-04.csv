@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,el Montmell,34.6,
+0,Resum dades: temperatura màxima avui,Vallirana,34.4,
+0,Resum dades: temperatura màxima avui,l'Ametlla de Mar,33.8,
+0,Resum dades: temperatura màxima avui,Cabanes,33.4,
+0,Resum dades: temperatura màxima avui,Torroella de Fluvià,33.3,
+0,Resum dades: temperatura màxima avui,Santa Coloma de Farners,33.2,
+0,Resum dades: temperatura màxima avui,Fornells de la Selva,33.0,
+0,Resum dades: temperatura màxima avui,la Llacuna,33.0,
+0,Resum dades: temperatura màxima avui,Pantà de Darnius - Boadella,32.9,
+0,Resum dades: temperatura màxima avui,Parets del Vallès,32.9,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,8.0,
+1,Resum dades: temperatura mínima avui,Prades,10.7,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,11.0,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,11.8,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,11.9,
+1,Resum dades: temperatura mínima avui,Tírvia,12.1,
+1,Resum dades: temperatura mínima avui,Puigcerdà,12.4,
+1,Resum dades: temperatura mínima avui,Sort,12.6,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,13.2,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,14.0,
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,45.0
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,O,37.8
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,35.6
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,33.8
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,32.0
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,SO,27.0
+2,Resum dades: velocitat i direcció del vent avui,Mataró,NO,27.0
+2,Resum dades: velocitat i direcció del vent avui,la Pobla de Segur,NO,26.6
+2,Resum dades: velocitat i direcció del vent avui,Solsona,SO,23.8
+2,Resum dades: velocitat i direcció del vent avui,Torredembarra,SO,23.0
+3,Resum dades: precipitació avui,Santa Coloma de Queralt,0.1,
+3,Resum dades: precipitació avui,Maials,0.1,
+3,Resum dades: precipitació avui,Gandesa,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.0,
