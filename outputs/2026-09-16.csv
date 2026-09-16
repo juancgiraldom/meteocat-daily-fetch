@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,l'Aldea,29.6,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,29.6,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,29.4,
+0,Resum dades: temperatura màxima avui,el Montmell,29.3,
+0,Resum dades: temperatura màxima avui,Castell d'Aro,29.2,
+0,Resum dades: temperatura màxima avui,Vallirana,29.1,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,29.0,
+0,Resum dades: temperatura màxima avui,Aldover,28.9,
+0,Resum dades: temperatura màxima avui,Ulldecona - els Valentins,28.9,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,28.8,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,7.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),8.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,9.0,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,9.1,
+1,Resum dades: temperatura mínima avui,Prades,9.2,
+1,Resum dades: temperatura mínima avui,Sort,10.7,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,11.1,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,11.3,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,11.6,
+1,Resum dades: temperatura mínima avui,Alfarràs,11.6,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,75.2
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,49.0
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,S,47.5
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,45.0
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,43.6
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,38.5
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,38.2
+2,Resum dades: velocitat i direcció del vent avui,Sant Romà d'Abella,S,34.9
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,33.5
+2,Resum dades: velocitat i direcció del vent avui,Margalef,O,31.0
+3,Resum dades: precipitació avui,Ulldecona - els Valentins,1.2,
+3,Resum dades: precipitació avui,la Tallada d'Empordà,0.1,
+3,Resum dades: precipitació avui,Cassà de la Selva,0.1,
+3,Resum dades: precipitació avui,Castelló d'Empúries,0.1,
+3,Resum dades: precipitació avui,Olot,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
