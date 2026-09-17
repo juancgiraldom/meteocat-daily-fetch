@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Espolla,25.8,
+0,Resum dades: temperatura màxima avui,Castell d'Aro,25.6,
+0,Resum dades: temperatura màxima avui,Torroella de Fluvià,25.3,
+0,Resum dades: temperatura màxima avui,Torroella de Montgrí,25.2,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,25.0,
+0,Resum dades: temperatura màxima avui,Sant Pere Pescador,24.9,
+0,Resum dades: temperatura màxima avui,Cabrils,24.9,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,24.8,
+0,Resum dades: temperatura màxima avui,Palafrugell,24.5,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,24.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),4.2,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,7.7,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,8.9,
+1,Resum dades: temperatura mínima avui,PN dels Ports,8.9,
+1,Resum dades: temperatura mínima avui,Prades,8.9,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),9.3,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),9.5,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,9.7,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,9.7,
+1,Resum dades: temperatura mínima avui,Gisclareny,10.0,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,73.4
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,47.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,N,46.1
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,45.7
+2,Resum dades: velocitat i direcció del vent avui,Roses,N,41.0
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,40.7
+2,Resum dades: velocitat i direcció del vent avui,Castell d'Aro,N,39.6
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,38.9
+2,Resum dades: velocitat i direcció del vent avui,la Bisbal d'Empordà,N,35.3
+2,Resum dades: velocitat i direcció del vent avui,Palafrugell,NO,33.5
+3,Resum dades: precipitació avui,el Vendrell,12.8,
+3,Resum dades: precipitació avui,Cunit,10.9,
+3,Resum dades: precipitació avui,Sant Pere de Ribes - PN del Garraf,5.8,
+3,Resum dades: precipitació avui,Terrassa,5.8,
+3,Resum dades: precipitació avui,Vilanova i la Geltrú,4.7,
+3,Resum dades: precipitació avui,Canyelles,4.3,
+3,Resum dades: precipitació avui,Castellbisbal,3.6,
+3,Resum dades: precipitació avui,Sant Martí Sarroca,3.0,
+3,Resum dades: precipitació avui,Sabadell - Parc Agrari,2.9,
+3,Resum dades: precipitació avui,Illa de Buda,1.5,
