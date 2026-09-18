@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Castell d'Aro,25.2,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,24.8,
+0,Resum dades: temperatura màxima avui,Roses,24.6,
+0,Resum dades: temperatura màxima avui,Torredembarra,24.6,
+0,Resum dades: temperatura màxima avui,Mataró,24.3,
+0,Resum dades: temperatura màxima avui,Espolla,24.2,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,24.2,
+0,Resum dades: temperatura màxima avui,Amposta,24.0,
+0,Resum dades: temperatura màxima avui,l'Aldea,23.8,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,23.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),5.1,
+1,Resum dades: temperatura mínima avui,Prades,5.5,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),7.7,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,8.2,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,8.4,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,8.9,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,9.2,
+1,Resum dades: temperatura mínima avui,Gisclareny,9.6,
+1,Resum dades: temperatura mínima avui,Viladrau,10.0,
+1,Resum dades: temperatura mínima avui,Anglesola - Tornabous,10.1,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,68.0
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,52.9
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,45.0
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,O,44.6
+2,Resum dades: velocitat i direcció del vent avui,Roses,N,38.9
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NE,38.9
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,35.3
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,34.9
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,29.9
+2,Resum dades: velocitat i direcció del vent avui,Illa de Buda,NO,29.2
+3,Resum dades: precipitació avui,Barcelona - el Raval,5.9,
+3,Resum dades: precipitació avui,Cunit,4.5,
+3,Resum dades: precipitació avui,PN del Garraf - el Rascler,2.8,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,2.6,
+3,Resum dades: precipitació avui,el Prat de Llobregat,1.7,
+3,Resum dades: precipitació avui,Port de Barcelona - ZAL Prat,1.0,
+3,Resum dades: precipitació avui,Barcelona - Observatori Fabra,0.8,
+3,Resum dades: precipitació avui,Sant Joan de les Abadesses,0.4,
+3,Resum dades: precipitació avui,Vilanova i la Geltrú,0.4,
+3,Resum dades: precipitació avui,Barcelona - Zona Universitària,0.3,
