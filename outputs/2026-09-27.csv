@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Aldover,29.6,
+0,Resum dades: temperatura màxima avui,Vinebre,28.6,
+0,Resum dades: temperatura màxima avui,Nulles,28.6,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,28.3,
+0,Resum dades: temperatura màxima avui,el Masroig,28.2,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,28.1,
+0,Resum dades: temperatura màxima avui,Benissanet,28.1,
+0,Resum dades: temperatura màxima avui,l'Aldea,27.9,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,27.9,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,27.8,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,5.7,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,8.1,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,9.2,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,9.8,
+1,Resum dades: temperatura mínima avui,Puigcerdà,9.8,
+1,Resum dades: temperatura mínima avui,Tírvia,10.1,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,10.3,
+1,Resum dades: temperatura mínima avui,Sort,10.3,
+1,Resum dades: temperatura mínima avui,Sant Llorenç Savall,10.7,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,11.1,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,SE,37.8
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,SE,33.1
+2,Resum dades: velocitat i direcció del vent avui,Benissanet,S,32.4
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,29.9
+2,Resum dades: velocitat i direcció del vent avui,Margalef,SO,28.4
+2,Resum dades: velocitat i direcció del vent avui,Falset,SE,28.4
+2,Resum dades: velocitat i direcció del vent avui,Vinebre,S,27.7
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,S,27.4
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,27.4
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,SE,27.4
+3,Resum dades: precipitació avui,PN del Garraf - el Rascler,0.2,
+3,Resum dades: precipitació avui,Barcelona - Observatori Fabra,0.1,
+3,Resum dades: precipitació avui,Sant Pere Pescador,0.1,
+3,Resum dades: precipitació avui,Perafita,0.1,
+3,Resum dades: precipitació avui,Pinós,0.1,
+3,Resum dades: precipitació avui,Viladrau,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
