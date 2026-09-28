@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Vinebre,30.8,
+0,Resum dades: temperatura màxima avui,Seròs,29.9,
+0,Resum dades: temperatura màxima avui,Alcarràs,29.9,
+0,Resum dades: temperatura màxima avui,Cabanes,29.6,
+0,Resum dades: temperatura màxima avui,Vallfogona de Balaguer,29.5,
+0,Resum dades: temperatura màxima avui,Castellnou de Seana,29.3,
+0,Resum dades: temperatura màxima avui,Benissanet,29.3,
+0,Resum dades: temperatura màxima avui,Lleida - la Femosa,29.3,
+0,Resum dades: temperatura màxima avui,Torres de Segre,29.2,
+0,Resum dades: temperatura màxima avui,Pantà de Darnius - Boadella,29.0,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),8.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),10.1,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,11.2,
+1,Resum dades: temperatura mínima avui,Gisclareny,11.2,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),11.2,
+1,Resum dades: temperatura mínima avui,Viladrau,11.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,12.1,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,12.2,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,13.0,
+1,Resum dades: temperatura mínima avui,Santuari de Queralt,13.2,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,S,51.1
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,39.2
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,E,36.7
+2,Resum dades: velocitat i direcció del vent avui,Molló - Fabert,SO,35.6
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,S,35.6
+2,Resum dades: velocitat i direcció del vent avui,Horta de Sant Joan,SE,34.6
+2,Resum dades: velocitat i direcció del vent avui,Falset,SE,34.6
+2,Resum dades: velocitat i direcció del vent avui,Tivissa,E,33.1
+2,Resum dades: velocitat i direcció del vent avui,Palafrugell,SE,33.1
+2,Resum dades: velocitat i direcció del vent avui,Roses,SE,32.8
+3,Resum dades: precipitació avui,Castell d'Aro,5.4,
+3,Resum dades: precipitació avui,Torroella de Montgrí,1.1,
+3,Resum dades: precipitació avui,Cassà de la Selva,1.1,
+3,Resum dades: precipitació avui,l'Aldea,0.7,
+3,Resum dades: precipitació avui,la Bisbal d'Empordà,0.3,
+3,Resum dades: precipitació avui,la Tallada d'Empordà,0.3,
+3,Resum dades: precipitació avui,Castellnou de Bages,0.1,
+3,Resum dades: precipitació avui,PN del Garraf - el Rascler,0.1,
+3,Resum dades: precipitació avui,Pinós,0.1,
+3,Resum dades: precipitació avui,Vilafranca del Penedès - la Granada,0.1,
