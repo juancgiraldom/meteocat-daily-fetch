@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Torroella de Montgrí,28.7,
+0,Resum dades: temperatura màxima avui,la Bisbal d'Empordà,28.5,
+0,Resum dades: temperatura màxima avui,Cabanes,28.5,
+0,Resum dades: temperatura màxima avui,la Tallada d'Empordà,28.3,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,28.3,
+0,Resum dades: temperatura màxima avui,Sant Pere Pescador,28.2,
+0,Resum dades: temperatura màxima avui,Alfarràs,28.2,
+0,Resum dades: temperatura màxima avui,Roses,28.1,
+0,Resum dades: temperatura màxima avui,Seròs,28.1,
+0,Resum dades: temperatura màxima avui,Espolla,27.9,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),10.7,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,10.9,
+1,Resum dades: temperatura mínima avui,Gisclareny,10.9,
+1,Resum dades: temperatura mínima avui,Puigcerdà,11.0,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,11.1,
+1,Resum dades: temperatura mínima avui,Tírvia,11.1,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,11.7,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,12.0,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,12.1,
+1,Resum dades: temperatura mínima avui,Alinyà,12.2,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,SO,62.3
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,61.6
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,S,40.0
+2,Resum dades: velocitat i direcció del vent avui,Margalef,S,34.2
+2,Resum dades: velocitat i direcció del vent avui,Molló - Fabert,S,30.6
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,S,30.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,SE,29.9
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,29.5
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,28.8
+2,Resum dades: velocitat i direcció del vent avui,Navata,S,28.8
+3,Resum dades: precipitació avui,l'Ametlla de Mar,3.1,
+3,Resum dades: precipitació avui,la Bisbal del Penedès,2.1,
+3,Resum dades: precipitació avui,el Masroig,1.9,
+3,Resum dades: precipitació avui,el Montmell,1.5,
+3,Resum dades: precipitació avui,Constantí,1.5,
+3,Resum dades: precipitació avui,Vila-rodona,1.4,
+3,Resum dades: precipitació avui,Sant Martí Sarroca,1.4,
+3,Resum dades: precipitació avui,Vinebre,1.3,
+3,Resum dades: precipitació avui,Benissanet,1.3,
+3,Resum dades: precipitació avui,Font-rubí,1.2,
