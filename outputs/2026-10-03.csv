@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cabanes,26.5,
+0,Resum dades: temperatura màxima avui,Castell d'Aro,25.7,
+0,Resum dades: temperatura màxima avui,Pantà de Darnius - Boadella,25.5,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,25.5,
+0,Resum dades: temperatura màxima avui,Espolla,25.4,
+0,Resum dades: temperatura màxima avui,Palafrugell,25.3,
+0,Resum dades: temperatura màxima avui,la Tallada d'Empordà,25.2,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,25.2,
+0,Resum dades: temperatura màxima avui,Torroella de Fluvià,25.2,
+0,Resum dades: temperatura màxima avui,Roses,25.1,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,9.6,
+1,Resum dades: temperatura mínima avui,Prades,9.7,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),9.9,
+1,Resum dades: temperatura mínima avui,Gisclareny,10.2,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,10.6,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),10.8,
+1,Resum dades: temperatura mínima avui,Viladrau,11.5,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,11.8,
+1,Resum dades: temperatura mínima avui,Alinyà,11.8,
+1,Resum dades: temperatura mínima avui,Puigcerdà,12.1,
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,SE,45.0
+2,Resum dades: velocitat i direcció del vent avui,Falset,SE,34.9
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - el Raval,E,32.0
+2,Resum dades: velocitat i direcció del vent avui,el Prat de Llobregat,SE,31.3
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,S,28.8
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,28.4
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SE,27.7
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,E,27.4
+2,Resum dades: velocitat i direcció del vent avui,Illa de Buda,E,26.3
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - ZAL Prat,E,26.3
+3,Resum dades: precipitació avui,Mas de Barberans,26.5,
+3,Resum dades: precipitació avui,les Cases d'Alcanar,25.1,
+3,Resum dades: precipitació avui,Illa de Buda,24.0,
+3,Resum dades: precipitació avui,els Alfacs,21.1,
+3,Resum dades: precipitació avui,Amposta,16.8,
+3,Resum dades: precipitació avui,l'Aldea,15.4,
+3,Resum dades: precipitació avui,el Perelló,11.4,
+3,Resum dades: precipitació avui,l'Ametlla de Mar,9.5,
+3,Resum dades: precipitació avui,Riudecanyes,7.3,
+3,Resum dades: precipitació avui,Aldover,6.7,
