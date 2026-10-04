@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cunit,26.7,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,26.6,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,26.1,
+0,Resum dades: temperatura màxima avui,Gimenells,26.0,
+0,Resum dades: temperatura màxima avui,Alfarràs,26.0,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,25.9,
+0,Resum dades: temperatura màxima avui,Aldover,25.7,
+0,Resum dades: temperatura màxima avui,el Vendrell,25.6,
+0,Resum dades: temperatura màxima avui,Vallfogona de Balaguer,25.6,
+0,Resum dades: temperatura màxima avui,Albesa,25.6,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,7.6,
+1,Resum dades: temperatura mínima avui,Gisclareny,9.5,
+1,Resum dades: temperatura mínima avui,Puigcerdà,9.6,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),9.8,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),9.9,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,10.0,
+1,Resum dades: temperatura mínima avui,PN dels Ports,10.1,
+1,Resum dades: temperatura mínima avui,Alinyà,10.6,
+1,Resum dades: temperatura mínima avui,Prades,10.7,
+1,Resum dades: temperatura mínima avui,Santuari de Queralt,11.1,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),NE,88.9
+2,Resum dades: velocitat i direcció del vent avui,Mataró,NE,55.8
+2,Resum dades: velocitat i direcció del vent avui,Sabadell - Parc Agrari,NE,52.9
+2,Resum dades: velocitat i direcció del vent avui,Terrassa,NE,51.1
+2,Resum dades: velocitat i direcció del vent avui,Parets del Vallès,N,50.0
+2,Resum dades: velocitat i direcció del vent avui,Santuari de Queralt,NO,48.2
+2,Resum dades: velocitat i direcció del vent avui,Castell d'Aro,N,47.5
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,N,45.0
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,E,44.6
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,NE,44.3
+3,Resum dades: precipitació avui,Castell d'Aro,168.6,
+3,Resum dades: precipitació avui,Granollers,164.7,
+3,Resum dades: precipitació avui,Malgrat de Mar,157.9,
+3,Resum dades: precipitació avui,Puig Sesolles (1.666 m),131.8,
+3,Resum dades: precipitació avui,Viladrau,129.3,
+3,Resum dades: precipitació avui,Cassà de la Selva,125.4,
+3,Resum dades: precipitació avui,Sabadell - Parc Agrari,124.6,
+3,Resum dades: precipitació avui,la Tallada d'Empordà,108.8,
+3,Resum dades: precipitació avui,la Roca del Vallès - ETAP Cardedeu,105.7,
+3,Resum dades: precipitació avui,Caldes de Montbui,104.7,
