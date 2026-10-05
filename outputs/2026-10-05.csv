@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Gimenells,29.8,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,29.4,
+0,Resum dades: temperatura màxima avui,Vinebre,28.9,
+0,Resum dades: temperatura màxima avui,Vallfogona de Balaguer,28.6,
+0,Resum dades: temperatura màxima avui,Alfarràs,28.1,
+0,Resum dades: temperatura màxima avui,Torroja del Priorat,28.0,
+0,Resum dades: temperatura màxima avui,Alcarràs,27.9,
+0,Resum dades: temperatura màxima avui,les Borges Blanques,27.9,
+0,Resum dades: temperatura màxima avui,Aldover,27.8,
+0,Resum dades: temperatura màxima avui,Seròs,27.8,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,7.1,
+1,Resum dades: temperatura mínima avui,Puigcerdà,8.5,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,9.2,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),9.7,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,10.0,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,10.4,
+1,Resum dades: temperatura mínima avui,Gisclareny,10.4,
+1,Resum dades: temperatura mínima avui,Tírvia,10.6,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,10.8,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),11.0,
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,N,51.5
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),E,43.9
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NE,43.6
+2,Resum dades: velocitat i direcció del vent avui,Cabrils,N,36.7
+2,Resum dades: velocitat i direcció del vent avui,Mataró,NO,34.9
+2,Resum dades: velocitat i direcció del vent avui,Illa de Buda,NE,34.6
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,33.8
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,N,33.1
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - ZAL Prat,E,30.6
+2,Resum dades: velocitat i direcció del vent avui,Roses,N,29.9
+3,Resum dades: precipitació avui,Granollers,108.1,
+3,Resum dades: precipitació avui,Barcelona - Observatori Fabra,74.8,
+3,Resum dades: precipitació avui,Badalona - Museu,55.6,
+3,Resum dades: precipitació avui,Barcelona - el Raval,43.8,
+3,Resum dades: precipitació avui,Parets del Vallès,43.6,
+3,Resum dades: precipitació avui,la Roca del Vallès - ETAP Cardedeu,39.6,
+3,Resum dades: precipitació avui,Port de Barcelona - ZAL Prat,38.7,
+3,Resum dades: precipitació avui,Castellbisbal,38.4,
+3,Resum dades: precipitació avui,Sant Cugat del Vallès - CAR,37.6,
+3,Resum dades: precipitació avui,PN del Garraf - el Rascler,31.7,
