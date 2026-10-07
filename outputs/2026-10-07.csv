@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Illa de Buda,27.6,
+0,Resum dades: temperatura màxima avui,l'Aldea,27.0,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,27.0,
+0,Resum dades: temperatura màxima avui,Amposta,26.8,
+0,Resum dades: temperatura màxima avui,el Vendrell,26.7,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,26.7,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,26.7,
+0,Resum dades: temperatura màxima avui,Aldover,26.6,
+0,Resum dades: temperatura màxima avui,Ulldecona - els Valentins,26.6,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,26.3,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),8.7,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),8.9,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,9.3,
+1,Resum dades: temperatura mínima avui,Gisclareny,9.3,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,9.4,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,9.5,
+1,Resum dades: temperatura mínima avui,Puigcerdà,9.6,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,10.1,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,10.1,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,10.7,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,61.2
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,46.4
+2,Resum dades: velocitat i direcció del vent avui,Santuari de Queralt,NO,43.6
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,S,41.4
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,38.9
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,34.9
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,34.6
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Siurana,SO,32.4
+2,Resum dades: velocitat i direcció del vent avui,Benissanet,NO,32.4
+2,Resum dades: velocitat i direcció del vent avui,l'Espluga de Francolí,NO,31.3
+3,Resum dades: precipitació avui,el Pont de Suert,11.4,
+3,Resum dades: precipitació avui,Vielha - Elipòrt,4.1,
+3,Resum dades: precipitació avui,Tírvia,3.4,
+3,Resum dades: precipitació avui,Lladurs,2.9,
+3,Resum dades: precipitació avui,Gimenells,1.6,
+3,Resum dades: precipitació avui,Batea,1.5,
+3,Resum dades: precipitació avui,Alinyà,1.2,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,1.1,
+3,Resum dades: precipitació avui,Albesa,0.9,
+3,Resum dades: precipitació avui,Gandesa,0.8,
