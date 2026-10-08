@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,25.3,
+0,Resum dades: temperatura màxima avui,Cunit,24.5,
+0,Resum dades: temperatura màxima avui,Vallfogona de Balaguer,24.3,
+0,Resum dades: temperatura màxima avui,Torredembarra,24.2,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,24.2,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,24.1,
+0,Resum dades: temperatura màxima avui,Sant Pere de Ribes - PN del Garraf,23.8,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,23.8,
+0,Resum dades: temperatura màxima avui,el Vendrell,23.5,
+0,Resum dades: temperatura màxima avui,Constantí,23.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),4.1,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),7.6,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),7.7,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,7.9,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,7.9,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,8.0,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,8.4,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,8.4,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,8.5,
+1,Resum dades: temperatura mínima avui,Gisclareny,8.6,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,127.1
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,101.5
+2,Resum dades: velocitat i direcció del vent avui,Mas de Barberans,NO,93.6
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,92.2
+2,Resum dades: velocitat i direcció del vent avui,Amposta,NO,72.7
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,72.4
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,68.4
+2,Resum dades: velocitat i direcció del vent avui,Benissanet,NO,67.3
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,60.8
+2,Resum dades: velocitat i direcció del vent avui,Horta de Sant Joan,O,56.5
+3,Resum dades: precipitació avui,Banyoles,20.4,
+3,Resum dades: precipitació avui,Torroella de Fluvià,11.0,
+3,Resum dades: precipitació avui,Sant Pere Pescador,10.7,
+3,Resum dades: precipitació avui,la Bisbal d'Empordà,8.8,
+3,Resum dades: precipitació avui,la Tallada d'Empordà,8.6,
+3,Resum dades: precipitació avui,Palafrugell,8.5,
+3,Resum dades: precipitació avui,Girona,7.5,
+3,Resum dades: precipitació avui,Fogars de la Selva,6.2,
+3,Resum dades: precipitació avui,Bonabé (1.691 m),5.2,
+3,Resum dades: precipitació avui,Cantonigròs,5.0,
