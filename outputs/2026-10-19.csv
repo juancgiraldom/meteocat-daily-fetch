@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Castell d'Aro,19.2,
+0,Resum dades: temperatura màxima avui,Mataró,19.2,
+0,Resum dades: temperatura màxima avui,Cabrils,19.1,
+0,Resum dades: temperatura màxima avui,Badalona - Museu,18.5,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,18.1,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,18.0,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,18.0,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,17.9,
+0,Resum dades: temperatura màxima avui,Santa Coloma de Farners,17.6,
+0,Resum dades: temperatura màxima avui,Espolla,17.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),3.0,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),3.3,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,4.7,
+1,Resum dades: temperatura mínima avui,PN dels Ports,4.9,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),5.6,
+1,Resum dades: temperatura mínima avui,Puigcerdà,6.4,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,6.5,
+1,Resum dades: temperatura mínima avui,Gisclareny,6.7,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,6.8,
+1,Resum dades: temperatura mínima avui,Viladrau,7.1,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,59.4
+2,Resum dades: velocitat i direcció del vent avui,Roses,N,56.9
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,N,56.9
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,54.7
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,NO,50.4
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,N,47.9
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),NE,47.9
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,47.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Darnius - Boadella,NE,43.2
+2,Resum dades: velocitat i direcció del vent avui,Cabrils,N,43.2
+3,Resum dades: precipitació avui,Font-rubí,19.4,
+3,Resum dades: precipitació avui,la Llacuna,17.0,
+3,Resum dades: precipitació avui,Vila-rodona,16.7,
+3,Resum dades: precipitació avui,la Bisbal del Penedès,14.7,
+3,Resum dades: precipitació avui,el Vendrell,14.6,
+3,Resum dades: precipitació avui,Vilafranca del Penedès - la Granada,14.4,
+3,Resum dades: precipitació avui,el Montmell,14.0,
+3,Resum dades: precipitació avui,Blancafort,14.0,
+3,Resum dades: precipitació avui,PN dels Ports,13.4,
+3,Resum dades: precipitació avui,Sant Martí Sarroca,12.9,
