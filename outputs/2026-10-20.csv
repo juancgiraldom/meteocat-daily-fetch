@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,19.9,
+0,Resum dades: temperatura màxima avui,el Vendrell,19.7,
+0,Resum dades: temperatura màxima avui,Amposta,19.1,
+0,Resum dades: temperatura màxima avui,Cunit,19.1,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,18.8,
+0,Resum dades: temperatura màxima avui,Aldover,18.5,
+0,Resum dades: temperatura màxima avui,Cabrils,18.5,
+0,Resum dades: temperatura màxima avui,els Alfacs,18.5,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,18.5,
+0,Resum dades: temperatura màxima avui,Torredembarra,18.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),4.8,
+1,Resum dades: temperatura mínima avui,PN dels Ports,5.4,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,5.7,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),6.2,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),6.2,
+1,Resum dades: temperatura mínima avui,Alinyà,6.9,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,7.0,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,7.0,
+1,Resum dades: temperatura mínima avui,Gisclareny,7.2,
+1,Resum dades: temperatura mínima avui,Puigcerdà,7.5,
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,56.9
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,NO,55.1
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,52.6
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,50.0
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,O,48.2
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NO,47.9
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,45.7
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,44.6
+2,Resum dades: velocitat i direcció del vent avui,Torredembarra,NO,43.2
+2,Resum dades: velocitat i direcció del vent avui,Terrassa,N,39.6
+3,Resum dades: precipitació avui,Palafrugell,2.3,
+3,Resum dades: precipitació avui,Torroella de Montgrí,1.7,
+3,Resum dades: precipitació avui,Molló - Fabert,1.4,
+3,Resum dades: precipitació avui,Sant Romà d'Abella,1.2,
+3,Resum dades: precipitació avui,Castell d'Aro,1.0,
+3,Resum dades: precipitació avui,la Tallada d'Empordà,0.9,
+3,Resum dades: precipitació avui,Roses,0.8,
+3,Resum dades: precipitació avui,la Bisbal d'Empordà,0.7,
+3,Resum dades: precipitació avui,Sant Pere Pescador,0.7,
+3,Resum dades: precipitació avui,la Quar,0.6,
