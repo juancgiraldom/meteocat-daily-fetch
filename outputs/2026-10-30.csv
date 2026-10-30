@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Aldover,23.3,
+0,Resum dades: temperatura màxima avui,Torroja del Priorat,22.6,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,22.1,
+0,Resum dades: temperatura màxima avui,Nulles,21.9,
+0,Resum dades: temperatura màxima avui,Benissanet,21.8,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,21.8,
+0,Resum dades: temperatura màxima avui,el Vendrell,21.7,
+0,Resum dades: temperatura màxima avui,el Masroig,21.7,
+0,Resum dades: temperatura màxima avui,Sant Pere de Ribes - PN del Garraf,21.6,
+0,Resum dades: temperatura màxima avui,Vallfogona de Balaguer,21.5,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,-2.0,
+1,Resum dades: temperatura mínima avui,Puigcerdà,1.5,
+1,Resum dades: temperatura mínima avui,Tírvia,2.3,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,2.9,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,3.1,
+1,Resum dades: temperatura mínima avui,Sort,3.5,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,3.8,
+1,Resum dades: temperatura mínima avui,la Seu d'Urgell - Bellestar,4.2,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),4.8,
+1,Resum dades: temperatura mínima avui,Gisclareny,4.9,
+2,Resum dades: velocitat i direcció del vent avui,Organyà,N,34.6
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,32.0
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NE,31.0
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NE,28.8
+2,Resum dades: velocitat i direcció del vent avui,Roses,N,28.4
+2,Resum dades: velocitat i direcció del vent avui,Illa de Buda,E,27.0
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,27.0
+2,Resum dades: velocitat i direcció del vent avui,Torredembarra,E,25.6
+2,Resum dades: velocitat i direcció del vent avui,Vilanova i la Geltrú,SE,25.6
+2,Resum dades: velocitat i direcció del vent avui,Castell d'Aro,E,23.8
+3,Resum dades: precipitació avui,els Alfacs,6.5,
+3,Resum dades: precipitació avui,Illa de Buda,3.3,
+3,Resum dades: precipitació avui,Santuari de Queralt,0.3,
+3,Resum dades: precipitació avui,Pujalt,0.3,
+3,Resum dades: precipitació avui,l'Ametlla de Mar,0.2,
+3,Resum dades: precipitació avui,Santa Coloma de Queralt,0.2,
+3,Resum dades: precipitació avui,la Panadella,0.2,
+3,Resum dades: precipitació avui,Cervera,0.1,
+3,Resum dades: precipitació avui,Sant Pere Pescador,0.1,
+3,Resum dades: precipitació avui,Torroella de Montgrí,0.1,
