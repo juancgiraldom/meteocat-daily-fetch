@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,18.7,
+0,Resum dades: temperatura màxima avui,Fogars de la Selva,18.4,
+0,Resum dades: temperatura màxima avui,l'Aldea,18.2,
+0,Resum dades: temperatura màxima avui,Castell d'Aro,18.0,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,17.9,
+0,Resum dades: temperatura màxima avui,Cabrils,17.8,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,17.7,
+0,Resum dades: temperatura màxima avui,Cunit,17.6,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,17.5,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,17.3,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),-2.2,
+1,Resum dades: temperatura mínima avui,PN dels Ports,-1.2,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),-0.8,
+1,Resum dades: temperatura mínima avui,Gisclareny,-0.3,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,-0.2,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,-0.1,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),0.0,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,0.1,
+1,Resum dades: temperatura mínima avui,Puigcerdà,0.7,
+1,Resum dades: temperatura mínima avui,Prades,1.2,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,68.4
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,48.2
+2,Resum dades: velocitat i direcció del vent avui,Roses,NE,47.2
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,44.3
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,40.7
+2,Resum dades: velocitat i direcció del vent avui,Cantonigròs,NE,39.6
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,N,38.5
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),NE,38.2
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NO,37.1
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,NO,33.5
+3,Resum dades: precipitació avui,Espolla,5.2,
+3,Resum dades: precipitació avui,Malgrat de Mar,3.8,
+3,Resum dades: precipitació avui,Santa Coloma de Farners,3.7,
+3,Resum dades: precipitació avui,Portbou - coll dels Belitres,3.5,
+3,Resum dades: precipitació avui,Pantà de Darnius - Boadella,3.1,
+3,Resum dades: precipitació avui,Pantà de Sau,3.1,
+3,Resum dades: precipitació avui,Girona,2.8,
+3,Resum dades: precipitació avui,Mataró,2.8,
+3,Resum dades: precipitació avui,Castell d'Aro,2.6,
+3,Resum dades: precipitació avui,Banyoles,2.2,
