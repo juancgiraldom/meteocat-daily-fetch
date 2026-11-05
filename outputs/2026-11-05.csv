@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cabrils,20.4,
+0,Resum dades: temperatura màxima avui,Castell d'Aro,20.3,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,19.5,
+0,Resum dades: temperatura màxima avui,Fogars de la Selva,19.4,
+0,Resum dades: temperatura màxima avui,Palafrugell,19.4,
+0,Resum dades: temperatura màxima avui,Cabanes,19.4,
+0,Resum dades: temperatura màxima avui,Roses,19.3,
+0,Resum dades: temperatura màxima avui,Anglès,19.0,
+0,Resum dades: temperatura màxima avui,Girona,19.0,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,18.8,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,-3.7,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),-2.9,
+1,Resum dades: temperatura mínima avui,Puigcerdà,-1.4,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,-0.6,
+1,Resum dades: temperatura mínima avui,Tírvia,-0.6,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,-0.6,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,-0.2,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,0.1,
+1,Resum dades: temperatura mínima avui,Sort,0.2,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,0.6,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,56.5
+2,Resum dades: velocitat i direcció del vent avui,Tivissa,SE,37.1
+2,Resum dades: velocitat i direcció del vent avui,Organyà,NE,34.6
+2,Resum dades: velocitat i direcció del vent avui,Molló - Fabert,S,33.8
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,E,28.4
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,NO,28.1
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,NO,28.1
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,27.7
+2,Resum dades: velocitat i direcció del vent avui,el Prat de Llobregat,NO,27.0
+2,Resum dades: velocitat i direcció del vent avui,Sant Pau de Segúries,SO,26.3
+3,Resum dades: precipitació avui,Ulldecona - els Valentins,14.4,
+3,Resum dades: precipitació avui,Amposta,14.1,
+3,Resum dades: precipitació avui,Mas de Barberans,11.9,
+3,Resum dades: precipitació avui,Illa de Buda,11.1,
+3,Resum dades: precipitació avui,les Cases d'Alcanar,10.3,
+3,Resum dades: precipitació avui,PN dels Ports,10.0,
+3,Resum dades: precipitació avui,Aldover,9.9,
+3,Resum dades: precipitació avui,l'Ametlla de Mar,9.9,
+3,Resum dades: precipitació avui,els Alfacs,9.7,
+3,Resum dades: precipitació avui,el Perelló,9.3,
