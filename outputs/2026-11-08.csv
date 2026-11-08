@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cabrils,21.8,
+0,Resum dades: temperatura màxima avui,Cunit,21.5,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,21.5,
+0,Resum dades: temperatura màxima avui,Illa de Buda,21.3,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,21.3,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,21.0,
+0,Resum dades: temperatura màxima avui,el Vendrell,20.9,
+0,Resum dades: temperatura màxima avui,Barcelona - Zona Universitària,20.9,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,20.8,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,20.7,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,-4.6,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,-1.1,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,-1.0,
+1,Resum dades: temperatura mínima avui,Puigcerdà,-0.8,
+1,Resum dades: temperatura mínima avui,Sort,-0.3,
+1,Resum dades: temperatura mínima avui,Tírvia,-0.3,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),-0.3,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,0.0,
+1,Resum dades: temperatura mínima avui,la Seu d'Urgell - Bellestar,0.8,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,1.3,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,57.2
+2,Resum dades: velocitat i direcció del vent avui,Organyà,N,35.6
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,S,33.5
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,S,33.1
+2,Resum dades: velocitat i direcció del vent avui,Santa Coloma de Farners,S,30.2
+2,Resum dades: velocitat i direcció del vent avui,Palafrugell,SO,27.4
+2,Resum dades: velocitat i direcció del vent avui,Malgrat de Mar,S,25.6
+2,Resum dades: velocitat i direcció del vent avui,Sant Pau de Segúries,O,25.2
+2,Resum dades: velocitat i direcció del vent avui,Muntanyola,SO,24.8
+2,Resum dades: velocitat i direcció del vent avui,Horta de Sant Joan,SE,24.1
+3,Resum dades: precipitació avui,Cassà de la Selva,0.4,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.2,
+3,Resum dades: precipitació avui,Roses,0.2,
+3,Resum dades: precipitació avui,Torredembarra,0.2,
+3,Resum dades: precipitació avui,Sant Llorenç Savall,0.2,
+3,Resum dades: precipitació avui,Girona,0.2,
+3,Resum dades: precipitació avui,Batea,0.2,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.1,
+3,Resum dades: precipitació avui,Sant Salvador de Guardiola,0.1,
+3,Resum dades: precipitació avui,la Bisbal d'Empordà,0.1,
