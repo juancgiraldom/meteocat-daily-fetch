@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Cabrils,22.1,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,22.1,
+0,Resum dades: temperatura màxima avui,Vilanova i la Geltrú,22.0,
+0,Resum dades: temperatura màxima avui,Illa de Buda,21.8,
+0,Resum dades: temperatura màxima avui,Port de Barcelona - ZAL Prat,21.8,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,21.7,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,21.6,
+0,Resum dades: temperatura màxima avui,Viladecans - les Filipines,21.6,
+0,Resum dades: temperatura màxima avui,Cunit,21.5,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,21.3,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,2.2,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),3.6,
+1,Resum dades: temperatura mínima avui,Puigcerdà,4.2,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),4.8,
+1,Resum dades: temperatura mínima avui,Sort,4.9,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,5.2,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,5.2,
+1,Resum dades: temperatura mínima avui,Tírvia,5.6,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,6.2,
+1,Resum dades: temperatura mínima avui,la Seu d'Urgell - Bellestar,6.3,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,SO,83.9
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),SO,73.8
+2,Resum dades: velocitat i direcció del vent avui,Molló - Fabert,S,59.4
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,S,58.7
+2,Resum dades: velocitat i direcció del vent avui,Sant Pau de Segúries,O,46.1
+2,Resum dades: velocitat i direcció del vent avui,Margalef,SE,43.9
+2,Resum dades: velocitat i direcció del vent avui,Santuari de Queralt,NO,43.9
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,S,43.6
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),S,43.2
+2,Resum dades: velocitat i direcció del vent avui,Palafrugell,SO,37.4
+3,Resum dades: precipitació avui,Blancafort,2.1,
+3,Resum dades: precipitació avui,Vallfogona de Balaguer,1.6,
+3,Resum dades: precipitació avui,Maials,0.8,
+3,Resum dades: precipitació avui,Santa Coloma de Queralt,0.7,
+3,Resum dades: precipitació avui,la Granadella,0.7,
+3,Resum dades: precipitació avui,Pantà de Riba-roja,0.7,
+3,Resum dades: precipitació avui,el Pont de Suert,0.5,
+3,Resum dades: precipitació avui,l'Espluga de Francolí,0.5,
+3,Resum dades: precipitació avui,el Montmell,0.4,
+3,Resum dades: precipitació avui,Ascó,0.4,
