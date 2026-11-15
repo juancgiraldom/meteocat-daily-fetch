@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,l'Aldea,21.5,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,21.0,
+0,Resum dades: temperatura màxima avui,el Perelló,20.8,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,20.6,
+0,Resum dades: temperatura màxima avui,Illa de Buda,20.4,
+0,Resum dades: temperatura màxima avui,l'Ametlla de Mar,20.4,
+0,Resum dades: temperatura màxima avui,Miami Platja,20.4,
+0,Resum dades: temperatura màxima avui,Fogars de la Selva,20.2,
+0,Resum dades: temperatura màxima avui,Vinyols i els Arcs - Cambrils,20.2,
+0,Resum dades: temperatura màxima avui,Torredembarra,20.1,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),2.2,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,3.0,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,3.5,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,3.5,
+1,Resum dades: temperatura mínima avui,Gisclareny,4.0,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),4.0,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),4.2,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,4.5,
+1,Resum dades: temperatura mínima avui,Santuari de Queralt,4.8,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,4.9,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,68.0
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,57.2
+2,Resum dades: velocitat i direcció del vent avui,Muntanyola,O,52.6
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,50.0
+2,Resum dades: velocitat i direcció del vent avui,Barcelona - Observatori Fabra,N,49.3
+2,Resum dades: velocitat i direcció del vent avui,Mas de Barberans,NO,46.8
+2,Resum dades: velocitat i direcció del vent avui,Viladrau,NO,45.7
+2,Resum dades: velocitat i direcció del vent avui,Molló - Fabert,S,44.6
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,S,43.6
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,42.8
+3,Resum dades: precipitació avui,Tremp,0.6,
+3,Resum dades: precipitació avui,la Pobla de Segur,0.5,
+3,Resum dades: precipitació avui,Cassà de la Selva,0.4,
+3,Resum dades: precipitació avui,Sant Salvador de Guardiola,0.3,
+3,Resum dades: precipitació avui,Golmés,0.3,
+3,Resum dades: precipitació avui,els Hostalets de Pierola,0.2,
+3,Resum dades: precipitació avui,Margalef,0.2,
+3,Resum dades: precipitació avui,Vinebre,0.2,
+3,Resum dades: precipitació avui,Castell d'Aro,0.2,
+3,Resum dades: precipitació avui,la Roca del Vallès - ETAP Cardedeu,0.2,
