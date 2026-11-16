@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Aldover,24.6,
+0,Resum dades: temperatura màxima avui,l'Aldea,24.5,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,24.5,
+0,Resum dades: temperatura màxima avui,l'Ametlla de Mar,22.9,
+0,Resum dades: temperatura màxima avui,Benissanet,22.9,
+0,Resum dades: temperatura màxima avui,el Perelló,22.8,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,22.8,
+0,Resum dades: temperatura màxima avui,Pantà de Riba-roja,22.7,
+0,Resum dades: temperatura màxima avui,Ulldecona - els Valentins,22.6,
+0,Resum dades: temperatura màxima avui,Miami Platja,22.6,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),0.0,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,0.8,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,1.1,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,1.8,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,2.1,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,2.7,
+1,Resum dades: temperatura mínima avui,Gisclareny,2.8,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,2.9,
+1,Resum dades: temperatura mínima avui,Sant Pau de Segúries,2.9,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),2.9,
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,NO,81.7
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,75.2
+2,Resum dades: velocitat i direcció del vent avui,Mas de Barberans,NO,60.5
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,59.0
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,56.2
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,53.3
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,NO,49.0
+2,Resum dades: velocitat i direcció del vent avui,Muntanyola,O,41.0
+2,Resum dades: velocitat i direcció del vent avui,Solsona,O,40.3
+2,Resum dades: velocitat i direcció del vent avui,Viladrau,O,39.2
+3,Resum dades: precipitació avui,Navès,0.2,
+3,Resum dades: precipitació avui,Gimenells,0.2,
+3,Resum dades: precipitació avui,Oliana,0.2,
+3,Resum dades: precipitació avui,Albesa,0.2,
+3,Resum dades: precipitació avui,el Masroig,0.2,
+3,Resum dades: precipitació avui,Alguaire,0.2,
+3,Resum dades: precipitació avui,la Pobla de Segur,0.2,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.1,
+3,Resum dades: precipitació avui,Sant Pau de Segúries,0.1,
+3,Resum dades: precipitació avui,Sant Romà d'Abella,0.1,
