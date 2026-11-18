@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,26.0,
+0,Resum dades: temperatura màxima avui,Benissanet,25.9,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,25.9,
+0,Resum dades: temperatura màxima avui,Miami Platja,25.9,
+0,Resum dades: temperatura màxima avui,l'Ametlla de Mar,25.8,
+0,Resum dades: temperatura màxima avui,el Perelló,25.7,
+0,Resum dades: temperatura màxima avui,Cabrils,25.6,
+0,Resum dades: temperatura màxima avui,Aldover,25.5,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,25.5,
+0,Resum dades: temperatura màxima avui,Vinebre,25.3,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),5.9,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),6.0,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,6.1,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,6.1,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,6.4,
+1,Resum dades: temperatura mínima avui,Anglesola - Tornabous,6.8,
+1,Resum dades: temperatura mínima avui,Puigcerdà,6.8,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,6.9,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),7.2,
+1,Resum dades: temperatura mínima avui,Gisclareny,7.3,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,123.1
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,71.3
+2,Resum dades: velocitat i direcció del vent avui,Viladrau,O,69.8
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,NO,69.1
+2,Resum dades: velocitat i direcció del vent avui,Anglès,NO,66.2
+2,Resum dades: velocitat i direcció del vent avui,Muntanyola,O,63.7
+2,Resum dades: velocitat i direcció del vent avui,Terrassa,O,60.5
+2,Resum dades: velocitat i direcció del vent avui,Santa Coloma de Farners,O,59.8
+2,Resum dades: velocitat i direcció del vent avui,Port de Barcelona - Bocana Sud,O,52.6
+2,Resum dades: velocitat i direcció del vent avui,Das - Aeròdrom,SO,52.2
+3,Resum dades: precipitació avui,Bonabé (1.691 m),0.7,
+3,Resum dades: precipitació avui,el Pont de Suert,0.6,
+3,Resum dades: precipitació avui,Gisclareny,0.5,
+3,Resum dades: precipitació avui,Cervera,0.3,
+3,Resum dades: precipitació avui,Montsec d'Ares (1.571 m),0.3,
+3,Resum dades: precipitació avui,Tírvia,0.3,
+3,Resum dades: precipitació avui,Benissanet,0.1,
+3,Resum dades: precipitació avui,el Canós,0.1,
+3,Resum dades: precipitació avui,Puig Sesolles (1.666 m),0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
