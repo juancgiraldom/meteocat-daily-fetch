@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,22.8,
+0,Resum dades: temperatura màxima avui,Girona,21.2,
+0,Resum dades: temperatura màxima avui,Roses,21.1,
+0,Resum dades: temperatura màxima avui,Castelló d'Empúries,21.1,
+0,Resum dades: temperatura màxima avui,Fogars de la Selva,21.0,
+0,Resum dades: temperatura màxima avui,Cabanes,20.7,
+0,Resum dades: temperatura màxima avui,Fornells de la Selva,20.6,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,20.6,
+0,Resum dades: temperatura màxima avui,Espolla,20.5,
+0,Resum dades: temperatura màxima avui,Sant Pere Pescador,20.4,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),0.5,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),1.2,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),3.3,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,4.3,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,4.5,
+1,Resum dades: temperatura mínima avui,Puigcerdà,4.8,
+1,Resum dades: temperatura mínima avui,Gisclareny,5.0,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,5.4,
+1,Resum dades: temperatura mínima avui,la Quar,5.9,
+1,Resum dades: temperatura mínima avui,Alinyà,5.9,
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,135.4
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,NO,124.2
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,O,103.7
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,98.6
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,92.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Siurana,O,91.1
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,O,88.2
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,82.8
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,O,82.4
+2,Resum dades: velocitat i direcció del vent avui,Ulldemolins,NO,80.3
+3,Resum dades: precipitació avui,Puigcerdà,2.5,
+3,Resum dades: precipitació avui,el Pont de Suert,2.4,
+3,Resum dades: precipitació avui,Bonabé (1.691 m),2.4,
+3,Resum dades: precipitació avui,Sort,2.0,
+3,Resum dades: precipitació avui,Montsec d'Ares (1.571 m),1.4,
+3,Resum dades: precipitació avui,Tremp,1.0,
+3,Resum dades: precipitació avui,Gisclareny,0.9,
+3,Resum dades: precipitació avui,Vilanova de Meià,0.8,
+3,Resum dades: precipitació avui,la Pobla de Segur,0.8,
+3,Resum dades: precipitació avui,Tírvia,0.7,
