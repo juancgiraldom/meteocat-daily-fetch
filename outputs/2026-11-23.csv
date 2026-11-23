@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,Illa de Buda,20.5,
+0,Resum dades: temperatura màxima avui,l'Aldea,20.0,
+0,Resum dades: temperatura màxima avui,Aldover,19.9,
+0,Resum dades: temperatura màxima avui,Ulldecona - els Valentins,19.8,
+0,Resum dades: temperatura màxima avui,Tarragona - Complex Educatiu,19.8,
+0,Resum dades: temperatura màxima avui,Malgrat de Mar,19.7,
+0,Resum dades: temperatura màxima avui,Sant Pere Pescador,19.3,
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,19.2,
+0,Resum dades: temperatura màxima avui,el Prat de Llobregat,19.2,
+0,Resum dades: temperatura màxima avui,la Tallada d'Empordà,19.0,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,-3.6,
+1,Resum dades: temperatura mínima avui,Guardiola de Berguedà,-1.9,
+1,Resum dades: temperatura mínima avui,el Pont de Suert,-1.8,
+1,Resum dades: temperatura mínima avui,Oliola,-0.8,
+1,Resum dades: temperatura mínima avui,Guixers - Valls,-0.5,
+1,Resum dades: temperatura mínima avui,Sort,-0.2,
+1,Resum dades: temperatura mínima avui,Organyà,-0.1,
+1,Resum dades: temperatura mínima avui,Orís,0.0,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,0.1,
+1,Resum dades: temperatura mínima avui,Castellar de n'Hug - el Clot del Moro,0.1,
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,74.9
+2,Resum dades: velocitat i direcció del vent avui,Portbou - coll dels Belitres,N,72.4
+2,Resum dades: velocitat i direcció del vent avui,Constantí,NO,69.8
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,NO,65.2
+2,Resum dades: velocitat i direcció del vent avui,el Vendrell,NO,64.8
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Siurana,O,62.6
+2,Resum dades: velocitat i direcció del vent avui,Mas de Barberans,NO,62.3
+2,Resum dades: velocitat i direcció del vent avui,PN dels Ports,O,62.3
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,NO,58.0
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,54.7
+3,Resum dades: precipitació avui,Girona,0.2,
+3,Resum dades: precipitació avui,Sant Joan de les Abadesses,0.1,
+3,Resum dades: precipitació avui,Oliana,0.1,
+3,Resum dades: precipitació avui,Algerri,0.1,
+3,Resum dades: precipitació avui,Castellnou de Seana,0.0,
+3,Resum dades: precipitació avui,Tàrrega,0.0,
+3,Resum dades: precipitació avui,Cervera,0.0,
+3,Resum dades: precipitació avui,Mas de Barberans,0.0,
+3,Resum dades: precipitació avui,Orís,0.0,
+3,Resum dades: precipitació avui,la Seu d'Urgell - Bellestar,0.0,
