@@ -1,0 +1,41 @@
+table_index,caption,col1,col2,col3
+0,Resum dades: temperatura màxima avui,les Cases d'Alcanar,17.0,
+0,Resum dades: temperatura màxima avui,els Alfacs,16.5,
+0,Resum dades: temperatura màxima avui,Amposta,16.4,
+0,Resum dades: temperatura màxima avui,Espolla,15.8,
+0,Resum dades: temperatura màxima avui,Barcelona - el Raval,15.8,
+0,Resum dades: temperatura màxima avui,Cabanes,15.7,
+0,Resum dades: temperatura màxima avui,Illa de Buda,15.6,
+0,Resum dades: temperatura màxima avui,Pantà de Darnius - Boadella,15.4,
+0,Resum dades: temperatura màxima avui,Aldover,15.4,
+0,Resum dades: temperatura màxima avui,l'Aldea,15.3,
+1,Resum dades: temperatura mínima avui,Puig Sesolles (1.666 m),-1.9,
+1,Resum dades: temperatura mínima avui,Montsec d'Ares (1.571 m),-1.3,
+1,Resum dades: temperatura mínima avui,Bonabé (1.691 m),-0.4,
+1,Resum dades: temperatura mínima avui,PN dels Ports,0.6,
+1,Resum dades: temperatura mínima avui,Das - Aeròdrom,0.8,
+1,Resum dades: temperatura mínima avui,Tagamanent - PN del Montseny,0.8,
+1,Resum dades: temperatura mínima avui,Vielha - Elipòrt,0.8,
+1,Resum dades: temperatura mínima avui,Gisclareny,0.9,
+1,Resum dades: temperatura mínima avui,Molló - Fabert,1.0,
+1,Resum dades: temperatura mínima avui,Maials,1.1,
+2,Resum dades: velocitat i direcció del vent avui,Miami Platja,NO,95.4
+2,Resum dades: velocitat i direcció del vent avui,Puig Sesolles (1.666 m),O,84.6
+2,Resum dades: velocitat i direcció del vent avui,el Perelló,O,76.0
+2,Resum dades: velocitat i direcció del vent avui,Montsec d'Ares (1.571 m),NO,66.6
+2,Resum dades: velocitat i direcció del vent avui,Riudecanyes,NO,65.5
+2,Resum dades: velocitat i direcció del vent avui,Font-rubí,O,65.2
+2,Resum dades: velocitat i direcció del vent avui,Pantà de Siurana,NO,64.8
+2,Resum dades: velocitat i direcció del vent avui,Alguaire,O,63.7
+2,Resum dades: velocitat i direcció del vent avui,l'Espluga de Francolí,O,63.0
+2,Resum dades: velocitat i direcció del vent avui,Margalef,O,61.6
+3,Resum dades: precipitació avui,Montserrat - Sant Dimes,10.6,
+3,Resum dades: precipitació avui,Ulldemolins,8.2,
+3,Resum dades: precipitació avui,Viladrau,8.1,
+3,Resum dades: precipitació avui,Sant Llorenç Savall,8.0,
+3,Resum dades: precipitació avui,Cassà de la Selva,7.8,
+3,Resum dades: precipitació avui,Rellinars,7.3,
+3,Resum dades: precipitació avui,Lleida - la Femosa,7.0,
+3,Resum dades: precipitació avui,Vallirana,6.7,
+3,Resum dades: precipitació avui,Prades,6.7,
+3,Resum dades: precipitació avui,Cervera,6.6,
